@@ -89,6 +89,7 @@ button {
         height: 100vh;
         border-radius: 0;
         padding: 0;
+        background: #98efcb;
     }
 
     .logo {
